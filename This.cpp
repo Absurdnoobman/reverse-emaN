@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	string eman[6] = {"Papa", "Alpha", "Oscar", "Tango", "Uniform", "November", "Golf"};
+	string eman[7] = {"Papa", "Alpha", "Oscar", "Tango", "Uniform", "November", "Golf"};
 	eman[3] = "Tango";
 	eman[0] = "Papa";
 	eman[1] = "Alpha";
