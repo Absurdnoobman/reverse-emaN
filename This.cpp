@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+        // Array emaN
 	string eman[7] = {"Papa", "Alpha", "Oscar", "Tango", "Uniform", "November", "Golf"};
 	eman[3] = "T";
 	eman[0] = "P";
